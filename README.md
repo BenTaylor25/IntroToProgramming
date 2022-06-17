@@ -1,6 +1,9 @@
 <h1>Introduction To Programming</h1>
 
 This repository contains the code written in my <a href="https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf">Introduction to Programming Tutorial Series</a>.
+
+The series is based in Python, but I also showcase other languages (Java and C++) to emphasise the concepts rather than syntax, as well as to make it easier for learners to transition to using other languages.
+
 <pre>
 -  <a href="https://youtu.be/-iw0scRjykc">1. The Basics</a>
 -  <a href="https://youtu.be/sSxtuUebJTQ">2. Data Types and Variables</a>
