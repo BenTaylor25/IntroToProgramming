@@ -1,6 +1,6 @@
 <h1>Intro To Programming</h1>
 
-This repository contains the code written in my <a href="https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf">Introduction to Programming Tutorial Series</a>.
+This repository contains the code written in my <a href="https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf">Intro to Programming Tutorial Series</a>.
 
 The series is based in Python, but I also showcase other languages (Java and C++) to emphasise the concepts rather than syntax, as well as to make it easier for learners to transition to using other languages.
 
