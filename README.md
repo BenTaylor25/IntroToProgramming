@@ -1,4 +1,4 @@
-<h1>Introduction To Programming</h1>
+<h1>Intro To Programming</h1>
 
 This repository contains the code written in my <a href="https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf">Introduction to Programming Tutorial Series</a>.
 
